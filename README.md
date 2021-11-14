@@ -1,1 +1,1 @@
-# mob-no-darails
+# mob-no-details
